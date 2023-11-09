@@ -14,3 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+I'm Joost
+
+I'm a data scientist 🤖 working mainly in Python and Spark 
+
+💬 Ask me about: anything related to time-series forecasting
+⚡ Fun fact: I have a healthy obsession with weather forecast
