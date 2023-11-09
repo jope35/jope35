@@ -19,5 +19,5 @@ I'm Joost
 
 I'm a data scientist 🤖 working mainly in Python and Spark 
 
-💬 Ask me about: anything related to time-series forecasting
+💬 Ask me about: anything related to time-series forecasting <br>
 ⚡ Fun fact: I have a healthy obsession with weather forecast
